@@ -1,16 +1,13 @@
 # it_pharm
+# spend_tracker
 
-A new Flutter project.
 
-## Getting Started
+ 
 
-This project is a starting point for a Flutter application.
+[Видео 1](assets/1.mp4)
+[Видео 2](assets/2.mp4)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Разрешить установку из неизвестных источников на Android.
+2. Скачать APK и открыть для установки.
+3. После установки приложение будет доступно на главном экране.
+ [APK](assets/app-release.apk)
